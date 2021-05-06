@@ -12,7 +12,7 @@
 
 
 
-Hello, I'm **AMCHAROD YASSINE**. I'm an engineering student in **CENTRALE MARSEILLE** (**ECM**) passionate about **WEB Development**, **Artificial Intelligence**, **Machine/Deep Learning**, and **mobile programming**.
+Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student in **CENTRALE MARSEILLE** (**ECM**) passionate about **WEB Development**, **Artificial Intelligence**, **Machine/Deep Learning**, and **mobile programming**.
 
   ## Languages and Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
@@ -20,6 +20,13 @@ Hello, I'm **AMCHAROD YASSINE**. I'm an engineering student in **CENTRALE MARSEI
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
+
+## My Git References 💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAmcharod&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineAmcharod&show_icons=true&theme=radical)
 
 
 
