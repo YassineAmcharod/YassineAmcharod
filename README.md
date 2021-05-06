@@ -20,7 +20,7 @@ Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student 
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
 
 
 ## My Git References 💻
