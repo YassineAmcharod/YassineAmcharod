@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **AMCHAROD YASSINE**. I'm an **IA** and **Data Science** engineering student in **CENTRALE MARSEILLE** (**ECM**) passionate about **WEB Development**, **Artificial Intelligence**, **Machine/Deep Learning**, and **mobile programming**.
+Hello, I'm **AMCHAROD YASSINE**. I'm an engineering student in **CENTRALE MARSEILLE** (**ECM**) passionate about **WEB Development**, **Artificial Intelligence**, **Machine/Deep Learning**, and **mobile programming**.
 
 
   ## Languages and Tools 
