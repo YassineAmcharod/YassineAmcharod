@@ -12,7 +12,7 @@
 
 
 
-Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student in **CENTRALE MARSEILLE** (**ECM**) passionate about **WEB Development**, **Artificial Intelligence**, **Machine/Deep Learning**, and **mobile programming**.
+Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student in **CENTRALE MARSEILLE** (**ECM**).
 
   ## Languages and Tools 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
