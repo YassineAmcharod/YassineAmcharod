@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/amcharod/" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student in **CENTRALE MARSEILLE** (**ECM**).
+Hello, I'm **AMCHAROD YASSINE**. I'm a **Software Engineer** -> **CENTRALE MARSEILLE** (**ECM**).
 
   ## Languages and Tools 
 ![Angular](https://img.shields.io/badge/-angular-E34A86?style=flat-square&logo=angular)  
@@ -21,6 +21,4 @@ Hello, I'm **AMCHAROD YASSINE**. I'm a **Computer Science** engineering student 
 ## My Git References 💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAmcharod&layout=compact)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineAmcharod&show_icons=true&theme=radical)
 
